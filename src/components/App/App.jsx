@@ -12,7 +12,7 @@ export const App = () => {
   return (
     <Section>
       <Container>
-        <Heading marginBottom="50px" textAlign="center">
+        {/* <Heading marginBottom="50px" textAlign="center"> */}
           Task 1
         </Heading>
         <BlogCard />
